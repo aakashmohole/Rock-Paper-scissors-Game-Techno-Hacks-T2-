@@ -1,6 +1,6 @@
 # 🎗️ Rock-Paper-scissors-Game-Techno-Hacks-T2 [Intern]
 
-Rock-Paper-scissors-Game is the consol version that allows the user to playthe classic game of rock, paper, scissorsagainst the computer 🔢
+Rock-Paper-scissors-Game is the consol version that allows the user to play the classic game of rock, and paper, scissors against the computer 🔢
 
 ## About this project 🚀
 
@@ -53,4 +53,4 @@ The Rock, Paper, Scissors game is a classic hand game commonly played between tw
 
 ## How it looks 🎥
 ``` bash
-
+https://github.com/aakashmohole/Rock-Paper-scissors-Game-Techno-Hacks-T2-/blob/main/rock%20paper%20scissors.mp4
